@@ -12,7 +12,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: linear-gradient(90deg, #06165f 0%, #5200ff 100%);
+    background: linear-gradient(90deg, #06165f 0%, #3c00bc 100%);
     padding: 10px 20px;
     color: #fff;
 }
@@ -131,7 +131,7 @@ body {
 }
 
 .footer {
-    background: linear-gradient(90deg, #182848 0%, #5200ff 100%);
+    background: linear-gradient(90deg, #182848 0%, #3c00bc 100%);
     color: #fff;
     padding: 20px;
     display: flex;
